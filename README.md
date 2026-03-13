@@ -69,7 +69,7 @@ plt.tight_layout()
 plt.show()
 ```
 ## Results
-![Total Sales by Region and Country](Images/total_sales_by_region_and_country.png)
+![Total Sales by Region and Country](https://github.com/AmadiJohn/Python_Data_Analytics_Project/blob/main/images/total_sales_by_region_and_country.png)
 
 ## Insights
 - The Oceania region, driven exclusively by Australia, is the highest-performing territory with sales exceeding 900k.
