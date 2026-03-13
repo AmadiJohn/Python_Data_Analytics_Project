@@ -107,7 +107,7 @@ plt.legend('')
 plt.show()
 ```
 ## Results
-![total_profit_by_category](Images/total_profit_by_category.png)
+![total_profit_by_category](https://github.com/AmadiJohn/Python_Data_Analytics_Project/blob/main/images/total_profit_by_category.png)
 
 ## Insights
 - The Technology category is the dominant driver of profitability, generating 663,778.73 USD in total profit. This category significantly outperforms both Office Supplies and Furniture, suggesting higher margins or a higher average transaction value.
