@@ -196,7 +196,7 @@ plt.title('Sales and Profit Relationship')
 plt.show()
 ```
 ## Results
-![sales_and_profit_relationship](Images/sales_and_profit_relationship.png)
+![sales_and_profit_relationship](https://github.com/AmadiJohn/Python_Data_Analytics_Project/blob/main/images/sales_and_profit_relationship.png)
 
 ## Insights
 - The visualization shows a primary positive correlation; as sales increase, profit generally trends upward. however, the "fan" shape of the data indicates variance instability, meaning the variance in profit increases significantly at higher sales volumes.
