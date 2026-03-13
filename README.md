@@ -147,7 +147,7 @@ plt.tight_layout()
 plt.show()
 ```
 ## Results
-![monthly_sales_over_time](Images/monthly_sales_over_time.png)
+![monthly_sales_over_time](https://github.com/AmadiJohn/Python_Data_Analytics_Project/blob/main/images/monthly_sales_over_time.png)
 
 ## Insights
 - The data reveals a consistent positive growth trend over the four-year period. Starting from a baseline of approximately 100k in early 2011, monthly sales peaked at over 500k by late 2014. This represents a significant increase in market share or customer acquisition over the analyzed lifecycle.
