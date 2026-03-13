@@ -177,7 +177,7 @@ plt.legend('')
 plt.show()
 ```
 ## Results
-![top_customers_by_sales](Images/top_customers_by_sales.png)
+![top_customers_by_sales](https://github.com/AmadiJohn/Python_Data_Analytics_Project/blob/main/images/top_customers_by_sales.png)
 
 ## Insights
 - Tom Ashbrook is the top-performing customer, generating the highest individual revenue at over 40,000 USD.
